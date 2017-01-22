@@ -1,0 +1,6 @@
+v0.2 (10/12/16)
+Reparadas varias rutas que provocaban pequeños errores
+
+
+v0.1 (03/12/16)
+Version inicial
