@@ -1,4 +1,4 @@
-v0.3 (24/01/17)
+v0.3
 Traducido al español
 
 v0.2 (10/12/16)
