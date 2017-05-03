@@ -1,3 +1,6 @@
+v0.4 (03/05/17)
+Cambio de alojamiento de archivos
+
 v0.3 (24/01/17)
 Traducido al español
 
