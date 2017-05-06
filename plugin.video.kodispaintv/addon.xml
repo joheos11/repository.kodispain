@@ -1,30 +1,43 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.kodispaintv" name="[COLOR red]Kodi[/COLOR][COLOR yellow]Spain[/COLOR][COLOR red]TV[/COLOR]" version="1.0" provider-name="konectas.es">
+<addon id="plugin.video.kodispaintv" 
+	   name="[COLOR red]Kodi[/COLOR][COLOR yellow]Spain[/COLOR][COLOR red]TV[/COLOR]" 
+	   version="2.0" 
+	   provider-name="joheos11">
 	
-	<requires>
-		<import addon="xbmc.python" version="2.1.0"/>
-		<import addon="script.module.beautifulsoup" version="3.2.1"/>
-		<import addon="script.module.simple.downloader" version="0.9.4"/>
-		<import addon="script.module.beautifulsoup4" />
-		<import addon="script.module.requests" />
-		<import addon="script.module.httplib2" />
-		<import addon="script.module.liveresolver" version="0.1.24" optional="true"/>
-		<import addon="script.module.youtube.dl" optional="true"/>
-		<import addon="plugin.video.youtube" optional="true" />
-		<import addon="script.module.urlresolver" optional="true"/>
-		<import addon="script.module.simplejson" />    
-		<import addon="script.module.livestreamer" optional="true"/>
-		<import addon="script.module.pyamf" optional="true"/>
-	</requires>
+		<requires>
+			<import addon="xbmc.python" version="2.1.0"/>
+			<import addon="script.module.beautifulsoup" version="3.2.1"/>
+			<import addon="script.module.simple.downloader" version="0.9.4"/>
+			<import addon="script.module.beautifulsoup4" />
+			<import addon="script.module.requests" />
+			<import addon="script.module.httplib2" />
+			<import addon="script.module.liveresolver" version="0.1.24" optional="true"/>
+			<import addon="script.module.youtube.dl" optional="true"/>
+			<import addon="plugin.video.youtube" optional="true" />
+			<import addon="script.module.urlresolver" optional="true"/>
+			<import addon="script.module.simplejson" />    
+			<import addon="script.module.livestreamer" optional="true"/>
+			<import addon="script.module.pyamf" optional="true"/>
+		</requires>
 	
-	<extension point="xbmc.python.pluginsource" library="default.py">
-		<provides>video</provides>
-	</extension>
+		<extension point="xbmc.python.pluginsource" library="default.py">
+			<provides>video</provides>
+		</extension>
 
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">Canales de la Television Española y más...</summary>
-		<description lang="en">Addon de video de KodiSpain</description>
+		
+		<summary>Canales de la Television Española y más...</summary>
+		<description>
+			Complemento de video basado en LiveStreamsPro
+			Puedes seguirme en https://t.me/kodispain y http://konectas.es
+			
+								AVISO LEGAL
+			Este complemento no aloja ningun contenido mostrado.
+			Todo el contenido se encuentra libremente en internet.
+			No se acepta ninguna responsabilidad por el uso de este addon.
+			
+			Enjoy!
+		</description>
 		<platform>all</platform>
 	</extension>
-
 </addon>
