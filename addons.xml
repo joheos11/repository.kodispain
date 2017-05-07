@@ -39,6 +39,7 @@
 
 		<requires>
 			<import addon="xbmc.python" version="2.1.0"/>
+			<import addon="script.common.plugin.cache" version="2.5.2"/>
 			<import addon="script.module.beautifulsoup" version="3.2.1"/>
 			<import addon="script.module.simple.downloader" version="0.9.4"/>
 			<import addon="script.module.beautifulsoup4" />
