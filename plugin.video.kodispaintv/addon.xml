@@ -26,15 +26,16 @@
   <extension point="xbmc.addon.metadata">
 		<summary>Canales de la Television Española y más...</summary>
 		<description>
-			Complemento de video basado en LiveStreamsPro
-			Puedes seguirme en https://t.me/kodispain y http://konectas.es
+		Complemento de video basado en LiveStreamsPro
+		Puedes seguirme en https://t.me/kodispain y http://konectas.es
 			
-								AVISO LEGAL
-			Este complemento no aloja ningun contenido mostrado.
-			Todo el contenido se encuentra libremente en internet.
-			No se acepta ninguna responsabilidad por el uso de este addon.
+		AVISO LEGAL:
+					
+		Este complemento no aloja ningun contenido mostrado.
+		Todo el contenido se encuentra libremente en internet.
+		No se acepta ninguna responsabilidad por el uso de este addon.
 			
-			Enjoy!
+		Enjoy!
 		</description>
 		<platform>all</platform>
   </extension>
