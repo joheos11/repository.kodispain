@@ -1,0 +1,118 @@
+===== Stable Versions ========
+[B]v1.0.15m (2017/04/16)[/B]
+- Revert setView change
+
+[B]v1.0.15l (2017/04/16)[/B]
+- Remove tumarcador and sport7 
+
+[B]v1.0.15k (2017/01/10)[/B]
+- Livefootballol changes merged from: https://bitbucket.org/rk1664/plexus-streams-rk
+
+[B]v1.0.15j (2016/11/14)[/B]
+- Remove useless entry
+
+[B]v1.0.15i (2016/11/14)[/B]
+- Fix ArenaVision agenda
+
+[B]v1.0.15h (2016/11/06)[/B]
+- Add tumarcador
+
+[B]v1.0.15g (2016/08/13)[/B]
+- Fix ArenaVision agenda
+
+[B]v1.0.15f (2016/07/23)[/B]
+- Change DHD1
+- Remove elgoles
+- Remove tugoleada
+
+[B]v1.0.15e (2016/07/04)[/B]
+- Fix ArenaVision agenda with non-ascii chars
+
+[B]v1.0.15d (2016/07/02)[/B]
+- Fix ArenaVision agenda
+
+[B]v1.0.15c (2016/03/18)[/B]
+- Fix rojadirecta
+
+[B]v1.0.15b (2016/03/05)[/B]
+- Fix rojadirecta
+
+[B]v1.0.15 (2016/02/07)[/B]
+- Add elgoles.net
+- Add tugoleada.com (only channel selection)
+- parse_and_resolv can get multiple streams and shows a dialog to select one
+
+[B]v1.0.14f (2016/01/30)[/B]
+- Fix rojadirecta + lfootballws
+
+[B]v1.0.14e (2015/12/26)[/B]
+- Add "no stream found" message in some parsers
+
+[B]v1.0.14d (2015/12/13)[/B]
+- Recover rojadirecta
+
+[B]v1.0.14c (2015/12/03)[/B]
+- Rollback (remove rojadirecta)
+
+[B]v1.0.14b (2015/12/03)[/B]
+- Recover rojadirecta
+
+[B]v1.0.14 (2015/11/29)[/B]
+- Remove rojadirecta
+
+[B]v1.0.13 (2015/11/15)[/B]
+- Merge rk1664 pull request:
+  · livefootballol.com parser
+
+[B]v1.0.12 (2015/11/14)[/B]
+- Remove livefootball.ws parser
+- Add lfootball.ws parser
+- Add message in sport7 when no links are found
+
+[B]v1.0.11b (2015/10/18)[/B]
+- Fix transliteration in Python 2
+
+[B]v1.0.11 (2015/10/18)[/B]
+- Add Sport7 parser
+
+[B]v1.0.10 (2015/10/18)[/B]
+- Fix DHD1
+
+[B]v1.0.9 (2015/10/09)[/B]
+- Improve web parsing
+
+[B]v1.0.8 (2015/09/26)[/B]
+- Fix LiveFootballVideo channel (code from P2P-Sports)
+- Change 1torrent.tv
+- Rename folder from peertopeerutils to utils
+- Changed some strings
+- Modify XML list: Now unextensioned files are considered XML
+
+[B]v1.0.7 (2015/09/12)[/B]
+- Fix Android
+
+[B]v1.0.6 (2015/09/05)[/B]
+- Fix DHD1 parser
+- Change livestreams local browse to 'files'
+
+[B]v1.0.5 (2015/08/30)[/B]
+- Fix play torrent execution in Plexus-Streams.
+  Delegate all functionality to Plexus.
+- Spanish translation.
+- Remove unused strings from translations.
+- Add first run warning
+
+[B]v1.0.4 (2015/08/29)[/B]
+- Improve DHD1 parser with multiline RE
+
+[B]v1.0.3 (2015/08/26)[/B]
+- Fix history.
+
+[B]v1.0.2 (2015/08/24)[/B]
+- Added deporteshd1 (DHD1) parser.
+
+[B]v1.0.1 (2015/08/24)[/B]
+- Remove unused images. Added Plexus icons.
+
+[B]v1.0 (2015/08/23)[/B]
+- First version of the addon: P2P-Streams fork that will work as a wrapper to Plexus addon
