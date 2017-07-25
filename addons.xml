@@ -34,7 +34,7 @@
 
 <addon id="plugin.video.kodispaintv"
        name="[COLOR red]Kodi[/COLOR][COLOR yellow]Spain[/COLOR][COLOR red]TV[/COLOR]"
-       version="2.0"
+       version="2.1"
        provider-name="joheos11">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -51,10 +51,10 @@
      <import addon="script.module.livestreamer" optional="true"/>
      <import addon="script.module.pyamf" optional="true"/>
   </requires>
-
   <extension point="xbmc.python.pluginsource" library="default.py">
     <provides>video</provides>
   </extension>
+
 
   <extension point="xbmc.addon.metadata">
 		<summary>Canales de la Television Española y más...</summary>

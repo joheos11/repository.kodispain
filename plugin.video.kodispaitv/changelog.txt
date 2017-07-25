@@ -1,0 +1,8 @@
+[B]version 2.1 (26.07.2017):[/B]
+- Basado en Version 2.8.1 de LSP
+
+[B]version 2.0:[/B]
+- Primera version basada en LSP
+
+[B]Version 1.0:[/B]
+- Version inicial basada en ecuafulltotal
