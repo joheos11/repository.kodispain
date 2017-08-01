@@ -34,7 +34,7 @@
 
 <addon id="plugin.video.kodispaintv"
        name="[COLOR red]Kodi[/COLOR][COLOR yellow]Spain[/COLOR][COLOR red]TV[/COLOR]"
-       version="2.1"
+       version="2.1.1"
        provider-name="joheos11">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
