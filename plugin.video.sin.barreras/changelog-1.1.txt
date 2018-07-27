@@ -1,7 +1,0 @@
-[B]Version 1.1[/B]
-
-Añadido sistema anticopia by Picapau
-
-[B]Version 1.0[/B]
-
-Versión Inicial Basada en LiveStreamPro 2.8.1
