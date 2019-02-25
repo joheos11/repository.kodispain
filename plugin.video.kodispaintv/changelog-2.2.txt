@@ -1,5 +1,0 @@
-version 2.0
-Primera version basada en LSP
-
-Version 1.0
-Version inicial basada en ecuafulltotal
