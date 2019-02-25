@@ -1,0 +1,14 @@
+<settings>
+  
+  <category label="Contacto">
+	 <setting type="lsep" label="https://konectas.es"/>
+	 <setting type="lsep" label="https://t.me/kodispain"/>
+	 <setting type="lsep" label="konectas@gmail.com"/>
+	 <setting id="ask_playlist_items" type="bool" label="Elegir Fuente de Video" default="true" visible="false"/>
+	 <setting id="debug" type="bool" label="Activar Modo Depuración" default="false" visible="false"/>
+     <setting id="1080pquality" label="Mejorar calidad 1080p" type="bool" default="true" visible="false"/>
+     <setting id="add_playlist" type="bool" label="Activar Multilink" default="true" visible="false"/>
+     <setting id="donotshowbychannels" label="Ocultar Canales" type="bool" default="false" visible="false"/>
+  </category>
+
+</settings>

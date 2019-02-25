@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.program.kodispainwizard" name="KodiSpain Wizard" version="0.4.6.1" provider-name="joheos11">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.service" library="startup.py" start="startup" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="es">KodiSpain Wizard</summary>
+    <description lang="es">
+KodiSpain Wizard, además de instalar automáticamente mis Builds, también ofrece numerosas funciones de mantenimiento y guardado de datos.
+Addon basado en el plugin de Aftermath y actualmente desarrollado por Drinfernoo. Traducido al Castellano por @joheos11.
+	</description>
+    <platform>all</platform>
+  </extension>
+</addon>
