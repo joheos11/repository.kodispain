@@ -2,21 +2,26 @@
 <addons>
 <addon id="plugin.video.kodispaintv"
        name="[COLOR red]Kodi[/COLOR][COLOR yellow]Spain[/COLOR][COLOR red]Tv[/COLOR]"
-       version="2.6"
+       version="2.7"
        provider-name="joheos11">
+
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.beautifulsoup" version="3.2.1"/>
     <import addon="script.module.simple.downloader" version="0.9.4"/>
-    <import addon="script.module.beautifulsoup4" />
     <import addon="script.module.requests" />
     <import addon="script.module.httplib2" />
     <import addon="script.module.liveresolver" version="0.1.24" optional="true"/>
     <import addon="script.module.youtube.dl" optional="true"/>
     <import addon="plugin.video.youtube" optional="true" />
+    <import addon="script.module.dateutil" optional="true" />
+    <import addon="script.module.resolveurl" optional="true"/>
     <import addon="script.module.urlresolver" optional="true"/>
+    <import addon="script.module.cloudscraper" optional="true"/>
+    <import addon="script.module.inputstreamhelper" optional="true"/>
     <import addon="script.module.simplejson" />
     <import addon="script.module.livestreamer" optional="true"/>
+    <import addon="script.module.slproxy" optional="true"/>
     <import addon="script.module.pyamf" optional="true"/>
   </requires>
 
