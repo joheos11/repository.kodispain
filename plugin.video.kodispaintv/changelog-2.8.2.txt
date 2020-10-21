@@ -1,3 +1,6 @@
+Version 2.8.2
+Incluidos "requires" necesarios para la sección de Youtube
+
 Version 2.8.1
 Cambio enlace a menu principal y ajustados requerimientos de instalación
 
