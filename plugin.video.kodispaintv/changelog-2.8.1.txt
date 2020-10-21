@@ -1,3 +1,6 @@
+Version 2.8.1
+Cambio enlace a menu principal y ajustados requerimientos de instalación
+
 Version 2.8
 Cambio de servidor de menu principal
 
